@@ -10,7 +10,7 @@
 * `pkg install git`
 * `git clone https://github.com/D1MMY0/cardon.git`
 * `cd cardon`
-* `chmod +x install.sh
+* `chmod +x install.sh`
 
 
 * `bash install.sh`  
