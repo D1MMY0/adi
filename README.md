@@ -2,17 +2,17 @@
 
 
 
-# CYBER NUCLEAR 🏁
-# SIMPLE CARDING TOOL ☣
-## Installation Commands ⚠️
+# 𝐍𝐔𝐂𝐋𝐄𝐀𝐑 𓆙 🏁
+# 𝐂𝐀𝐑𝐃𝐈𝐍𝐆 𝐓𝐎𝐎𝐋 ☣
+## 𝐈𝐍𝐒𝐓𝐀𝐀𝐓𝐈𝐎𝐍 𝐂𝐎𝐌𝐌𝐄𝐍𝐃😉
 * `apt update`
 * `apt upgrade`
 * `pkg install git`
 * `git clone https://github.com/D1MMY0/cardon.git`
 * `cd cardon`
-* `chmod +x install.sh`
+* `chmod +x *`
 * `bash install.sh`  
-* `bash carder.sh`
+* `bash start`
 
 ### <<< THE POWERFULL CARDON TOOL >>>
 
